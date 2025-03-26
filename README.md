@@ -12,6 +12,8 @@ Welcome to **BuzzBeat**! This Arduino-based project is designed to create trendy
 - Breadboard and jumper wires
 - 10k Resistor
 
+### Diagram 
+- https://i.postimg.cc/Dw4vSk3F/BuzzBeat.png
 
 ### Installation
 
